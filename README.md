@@ -11,8 +11,8 @@ https://github.com/Supermagnum/dual-paddle/tree/master/dual-paddle-iges
 STL files: 
 https://github.com/Supermagnum/dual-paddle/tree/master/dual-paddle-stl
 
-Screenshot:
-https://github.com/Supermagnum/dual-paddle/blob/master/screenshot.png
+Screenshots and pictures:
+https://github.com/Supermagnum/dual-paddle/tree/master/pictures
 
 
 The paddles has an "ear" each,it will need a hole drilled so a spring can be attached.
