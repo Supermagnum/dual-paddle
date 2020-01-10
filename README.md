@@ -32,3 +32,18 @@ https://github.com/Supermagnum/dual-paddle/blob/master/LICENSE
 Notes:
 None of the parts has threads modelled.
 The Viking stl and IGES file has fancy engraving.
+
+FreeCAD can be found here: https://www.freecadweb.org/ Its free!
+
+If you are not happy with the design,fork it! https://en.m.wikipedia.org/wiki/Fork_(software_development)
+
+
+This is a good demonstration of how FreeCAD works: 
+Sketch workbench: https://youtu.be/gbNg3mzm84s
+Practice part: https://youtu.be/geSQlBczsWY
+How to create blueprints:
+https://youtu.be/SbKWf7MalAk
+
+After all, it's open source and licenced under:
+
+Creative Commons Attribution 4.0 International.
