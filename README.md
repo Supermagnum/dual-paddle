@@ -40,7 +40,9 @@ If you are not happy with the design,fork it! https://en.m.wikipedia.org/wiki/Fo
 
 This is a good demonstration of how FreeCAD works: 
 Sketch workbench: https://youtu.be/gbNg3mzm84s
+
 Practice part: https://youtu.be/geSQlBczsWY
+
 How to create blueprints:
 https://youtu.be/SbKWf7MalAk
 
