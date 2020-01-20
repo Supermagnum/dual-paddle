@@ -17,6 +17,7 @@ https://github.com/Supermagnum/dual-paddle/tree/master/pictures
 This picture is the top plate with viking style graphics, in positive relief:
 https://github.com/Supermagnum/dual-paddle/blob/master/pictures/viking-top-plate2.png
 The stl file has the same name, but ends in stl.
+It is also available in negative relief. 
 
 
 The paddles has an "ear" each,it will need a hole drilled so a spring can be attached.
